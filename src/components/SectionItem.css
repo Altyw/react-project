@@ -1,0 +1,17 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: -50px;
+}
+
+th {
+  background-color: #f2f2f2;
+  padding: 10px;
+  text-align: center;
+  width: 25vw;
+}
+
+td {
+  width: 25vw;
+  text-align: center;
+}
